@@ -1,0 +1,1 @@
+{"jobID":"b3acbe94-65b6-4c46-1451-c21a93485152","spec":{"type":"policy","cause":{"Message":"","User":"nesrine.doghri \u003cnesrine.doghri@mia.rhenus.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
